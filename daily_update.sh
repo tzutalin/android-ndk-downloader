@@ -2,8 +2,8 @@
 NOW=$(date +%F)
 git pull
 
-echo "updateTable.py is running"
-python updateTable.py
+echo "updatetable.py is running"
+python updatetable.py
 
 echo "Committing new changes"
 git add -u
