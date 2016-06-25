@@ -1,1 +1,10 @@
-{"android-ndk-r9b-linux-x86_64": "http://dl.google.com/android/ndk/android-ndk-r9b-linux-x86_64.tar.bz2", "android-ndk-r11c-linux-x86_64": "http://dl.google.com/android/repository/android-ndk-r11c-linux-x86_64.zip", "android-ndk-r10d-linux-x86_64": "https://dl.google.com/android/ndk/android-ndk-r10d-linux-x86_64.bin", "android-ndk-r10d-linux-x86": "https://dl.google.com/android/ndk/android-ndk-r10d-linux-x86.bin", "android-ndk-r9b-linux-x86": "http://dl.google.com/android/ndk/android-ndk-r9b-linux-x86.tar.bz2", "android-ndk-r10e-linux-x86": "https://dl.google.com/android/ndk/android-ndk-r10e-linux-x86.bin", "android-ndk-r10e-linux-x86_64": "https://dl.google.com/android/ndk/android-ndk-r10e-linux-x86_64.bin"}
+{
+   "android-ndk-r9b-linux-x86_64":"http://dl.google.com/android/ndk/android-ndk-r9b-linux-x86_64.tar.bz2",
+   "android-ndk-r11c-linux-x86_64":"http://dl.google.com/android/repository/android-ndk-r11c-linux-x86_64.zip",
+   "android-ndk-r10d-linux-x86_64":"https://dl.google.com/android/ndk/android-ndk-r10d-linux-x86_64.bin",
+   "android-ndk-r10d-linux-x86":"https://dl.google.com/android/ndk/android-ndk-r10d-linux-x86.bin",
+   "android-ndk-r9b-linux-x86":"http://dl.google.com/android/ndk/android-ndk-r9b-linux-x86.tar.bz2",
+   "android-ndk-r10e-linux-x86":"https://dl.google.com/android/ndk/android-ndk-r10e-linux-x86.bin",
+   "android-ndk-r10e-linux-x86_64":"https://dl.google.com/android/ndk/android-ndk-r10e-linux-x86_64.bin",
+   "android-ndk-r12-linux-x86_64":"http://dl.google.com/android/repository/android-ndk-r12-linux-x86_64.zip"
+}
